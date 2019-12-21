@@ -12,5 +12,10 @@ namespace UNA.Cheques
         public string Numero { get; set; }
         public double Monto { get; set; }
         public string Descripcion { get; set; }
+        public DateTime Fecha { get; set; }
+        public string Receptor { get; set; }
+        public string Institucion { get; set; }
+        public string Moneda { get; set; }
+
     }
 }

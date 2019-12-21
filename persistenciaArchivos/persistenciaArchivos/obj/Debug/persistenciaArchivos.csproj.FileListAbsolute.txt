@@ -7,3 +7,12 @@ C:\Users\Ruben\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persi
 C:\Users\Ruben\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.csproj.GenerateResource.cache
 C:\Users\Ruben\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.exe
 C:\Users\Ruben\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.pdb
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\bin\Debug\persistenciaArchivos.exe.config
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\bin\Debug\persistenciaArchivos.exe
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\bin\Debug\persistenciaArchivos.pdb
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.csprojAssemblyReference.cache
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.CreateFilesForm.resources
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.Properties.Resources.resources
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.csproj.GenerateResource.cache
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.exe
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.pdb
