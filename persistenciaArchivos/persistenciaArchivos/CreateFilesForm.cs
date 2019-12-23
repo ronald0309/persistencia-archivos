@@ -16,10 +16,11 @@ namespace persistenciaArchivos
     {
         private readonly string rutaPorDefecto = AppDomain.CurrentDomain.BaseDirectory;
         private readonly string userPassword = "El20Examen20Estaba20Faci20";
-
+        private VerChequesForm vercheque = new VerChequesForm();
         public CreateFilesForm()
         {
             InitializeComponent();
+            
         }
 
         private void CreateFilesForm_Load(object sender, EventArgs e)

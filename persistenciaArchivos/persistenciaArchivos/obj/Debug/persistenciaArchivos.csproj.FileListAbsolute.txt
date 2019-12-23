@@ -16,3 +16,4 @@ D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchi
 D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.csproj.GenerateResource.cache
 D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.exe
 D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.pdb
+D:\Documents\GitHub\persistencia-archivos\persistenciaArchivos\persistenciaArchivos\obj\Debug\persistenciaArchivos.VerChequesForm.resources
